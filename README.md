@@ -16,20 +16,20 @@ Coming soon...
 
 Examples of point navigation and target-driven navigation.
 <div align="center">
-	<img src="./Fig1.png" alt="Editor" width="500">
+	<img src="./Fig1.png" alt="Editor" width="800">
 </div>
 
 Visualization of the navigation process.
 <div align="center">
-	<img src="./Fig2.png" alt="Editor" width="500">
+	<img src="./Fig2.png" alt="Editor" width="800">
 </div>
 
 Demo of point navigation.
 <div align="center">
-	<img src="./Demo-Point-Navigation.gif" alt="Editor" width="800">
+	<img src="./Demo-Point-Navigation.gif" alt="Editor" width="500">
 </div>
 
 Demo of target-driven navigation.
 <div align="center">
-	<img src="./Demo-Target-driven-Navigation.gif" alt="Editor" width="800">
+	<img src="./Demo-Target-driven-Navigation.gif" alt="Editor" width="500">
 </div>
