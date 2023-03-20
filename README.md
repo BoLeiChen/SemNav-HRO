@@ -9,7 +9,10 @@ Target-Driven Semantic Navigation (TDSN) shows great potential to be applied in 
 # Setup
 1. Install [Python-RVO2](https://github.com/sybrenstuvel/Python-RVO2) library.
 2. Install [socialforce](https://github.com/ChanganVR/socialforce) library.
-3. Install crowd_sim and crowd_nav into pip: pip install -e .
+3. Install crowd_sim and crowd_nav into pip:
+```
+pip install -e .
+```
 
 # Getting Started
 Coming soon...
@@ -26,12 +29,10 @@ Visualization of the navigation process.
 	<img src="./Fig2.png" alt="Editor" width="800">
 </div>
 
-Demo of point navigation.
-<div align="center">
-	<img src="./Demo-Point-Navigation.gif" alt="Editor" width="500">
-</div>
+|                Demo of point navigation.             |                 Demo of target-driven navigation.             |
+|:----------------------------------------------------:|:-------------------------------------------------------------:|
+| <img src="./Demo-Point-Navigation.gif" width="500"/> | <img src="./Demo-Target-driven-Navigation.gif" width="500"/>  |
 
-Demo of target-driven navigation.
-<div align="center">
-	<img src="./Demo-Target-driven-Navigation.gif" alt="Editor" width="500">
-</div>
+
+## Acknowledge
+This work is based on [CrowdNav](https://github.com/vita-epfl/CrowdNav) and [RelationalGraphLearning](https://github.com/ChanganVR/RelationalGraphLearning).  The authors thank Changan Chen, Yuejiang Liu, Sven Kreiss, Alexandre Alahi, Sha Hu, Payam Nikdel, Greg Mori, Manolis Savva for their works.
