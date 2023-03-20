@@ -18,6 +18,8 @@ pip install -e .
 Coming soon...
 
 # Getting Started
+This repository are organized in two parts: crowd_sim/ folder contains the simulation environment and crowd_nav/ folder contains codes for training and testing the policies. Below are the instructions for training and testing policies, and they should be executed inside the crowd_nav/ folder.
+
 Coming soon...
 
 # Examples and Demos
