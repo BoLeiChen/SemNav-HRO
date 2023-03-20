@@ -9,30 +9,21 @@ Target-Driven Semantic Navigation (TDSN) shows great potential to be applied in 
 # Examples and Demos
 
 Examples of point navigation and target-driven navigation.
-![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Fig1.png)
-
 <div align="center">
 	<img src="./Fig1.png" alt="Editor" width="500">
 </div>
 
 Visualization of the navigation process.
-![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Fig2.png)
+<div align="center">
+	<img src="./Fig2.png" alt="Editor" width="500">
+</div>
 
 Demo of point navigation.
-![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Demo-Point-Navigation.gif)
+<div align="center">
+	<img src="./Demo-Point-Navigation.gif" alt="Editor" width="500">
+</div>
 
 Demo of target-driven navigation.
-![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Demo-Target-driven-Navigation.gif)
-
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                https://github.com/BoLeiChen/SemNav-HRO/blob/main/Demo-Point-Navigation.gif
-            </td>
-            <td>
-                https://github.com/BoLeiChen/SemNav-HRO/blob/main/Demo-Target-driven-Navigation.gif
-            </td>
-        </tr>
-    </table>
-</html>
+<div align="center">
+	<img src="./Demo-Target-driven-Navigation.gif" alt="Editor" width="500">
+</div>
