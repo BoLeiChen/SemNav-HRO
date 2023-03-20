@@ -11,6 +11,10 @@ Target-Driven Semantic Navigation (TDSN) shows great potential to be applied in 
 Examples of point navigation and target-driven navigation.
 ![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Fig1.png)
 
+<div align="center">
+	<img src="./Fig1.png" alt="Editor" width="500">
+</div>
+
 Visualization of the navigation process.
 ![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Fig2.png)
 
