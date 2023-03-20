@@ -18,4 +18,4 @@ Demo of point navigation.
 ![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Demo-Point-Navigation.gif)
 
 Demo of target-driven navigation.
-![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Demo-Target-driven%20Navigation.mp4)
+![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Demo-Target-driven-Navigation.gif)
