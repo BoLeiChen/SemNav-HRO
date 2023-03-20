@@ -35,4 +35,4 @@ Visualization of the navigation process.
 
 
 ## Acknowledge
-This work is based on [CrowdNav](https://github.com/vita-epfl/CrowdNav) and [RelationalGraphLearning](https://github.com/ChanganVR/RelationalGraphLearning).  The authors thank Changan Chen, Yuejiang Liu, Sven Kreiss, Alexandre Alahi, Sha Hu, Payam Nikdel, Greg Mori, Manolis Savva for their works.
+This work is based on [RelationalGraphLearning](https://github.com/ChanganVR/RelationalGraphLearning). The authors thank Changan Chen, Sha Hu, Payam Nikdel, Greg Mori and Manolis Savva for their works.
