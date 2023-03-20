@@ -14,6 +14,4 @@ Examples of point navigation and target-driven navigation.
 Visualization of the navigation process.
 ![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Fig2.png)
 
-<video width="320" height="240" controls>
-    <source src="https://github.com/BoLeiChen/SemNav-HRO/blob/main/Demo-Point Navigation.mp4" type="video/mp4">
-</video>
+
