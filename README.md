@@ -26,10 +26,10 @@ Visualization of the navigation process.
 
 Demo of point navigation.
 <div align="center">
-	<img src="./Demo-Point-Navigation.gif" alt="Editor" width="500">
+	<img src="./Demo-Point-Navigation.gif" alt="Editor" width="800">
 </div>
 
 Demo of target-driven navigation.
 <div align="center">
-	<img src="./Demo-Target-driven-Navigation.gif" alt="Editor" width="500">
+	<img src="./Demo-Target-driven-Navigation.gif" alt="Editor" width="800">
 </div>
