@@ -19,3 +19,16 @@ Demo of point navigation.
 
 Demo of target-driven navigation.
 ![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Demo-Target-driven-Navigation.gif)
+
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                ![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Demo-Point-Navigation.gif)
+            </td>
+            <td>
+                ![image](https://github.com/BoLeiChen/SemNav-HRO/blob/main/Demo-Target-driven-Navigation.gif) 
+            </td>
+        </tr>
+    </table>
+</html>
